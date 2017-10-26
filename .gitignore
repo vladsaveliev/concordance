@@ -57,3 +57,6 @@ data/
 node_modules
 .DS_Store
 *.idx
+
+.idea
+package-lock.json
