@@ -28,6 +28,8 @@ To get started, run:
     source env/bin/activate          # activate the env (local pip, python).
     pip install -r requirements.txt  # install the requirements in the env.
 
+    npm install .
+
 ## Examples
 
 
