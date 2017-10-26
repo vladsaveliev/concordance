@@ -60,3 +60,5 @@ node_modules
 
 .idea
 package-lock.json
+
+viewer/concordance-data.js
